@@ -1,5 +1,5 @@
-![Deployed Application](https://hunter-williams.github.io/code-quiz/)
-![GitHub](https://github.com/hunter-williams/code-quiz)
+[Deployed Application](https://hunter-williams.github.io/code-quiz/)
+[GitHub](https://github.com/hunter-williams/code-quiz)
 
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
